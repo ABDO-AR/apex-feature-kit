@@ -2,7 +2,7 @@
 
 > by [Abdo AR](https://abdoar.com)
 
-[![npm version](https://img.shields.io/npm/v/@abdoar/apex-feature-kit.svg)](https://www.npmjs.com/package/@abdoar/apex-feature-kit) [![license](https://img.shields.io/npm/l/@abdoar/apex-feature-kit.svg)](https://github.com/AbdoAR/apex-feature-kit/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/@arfathyelsayed/apex-feature-kit.svg)](https://www.npmjs.com/package/@arfathyelsayed/apex-feature-kit) [![license](https://img.shields.io/npm/l/@arfathyelsayed/apex-feature-kit.svg)](https://github.com/ABDO-AR/apex-feature-kit/blob/main/LICENSE)
 
 Feature-Driven Development CLI for AI-agent execution — empowering startups to ship production-ready features, fast.
 
@@ -21,7 +21,7 @@ Why does this exist? Because startups need to move fast without sacrificing qual
 ## Quick Start
 
 ```bash
-npm install -g @abdoar/apex-feature-kit
+npm install -g @arfathyelsayed/apex-feature-kit
 apex-feature-kit init all
 ```
 
@@ -200,12 +200,12 @@ apex-feature-kit sync
 Empowering startups to build market-ready digital products — fast, scalable, and cost-effective.
 
 - [abdoar.com](https://abdoar.com)
-- [GitHub](https://github.com/AbdoAR)
-- [LinkedIn](https://linkedin.com/in/abdoar)
-- [Upwork](https://www.upwork.com/freelancers/abdoar) — Top Rated (top 10%)
+- [GitHub](https://github.com/ABDO-AR)
+- [LinkedIn](https://www.linkedin.com/in/arfathielsayed/)
+- [Upwork](https://www.upwork.com/freelancers/abdoa130) — Top Rated (top 10%)
 
 ---
 
 ## License
 
-[MIT](https://github.com/AbdoAR/apex-feature-kit/blob/main/LICENSE)
+[MIT](https://github.com/ABDO-AR/apex-feature-kit/blob/main/LICENSE)

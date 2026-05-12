@@ -1,5 +1,5 @@
 {
-  "name": "@abdoar/apex-feature-kit",
+  "name": "@arfathyelsayed/apex-feature-kit",
   "version": "0.1.0",
   "description": "Feature-Driven Development CLI for AI-agent execution",
   "main": "dist/index.js",
@@ -25,11 +25,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbdoAR/apex-feature-kit.git"
+    "url": "git+https://github.com/ABDO-AR/apex-feature-kit.git"
   },
-  "homepage": "https://github.com/AbdoAR/apex-feature-kit#readme",
+  "homepage": "https://github.com/ABDO-AR/apex-feature-kit#readme",
   "bugs": {
-    "url": "https://github.com/AbdoAR/apex-feature-kit/issues"
+    "url": "https://github.com/ABDO-AR/apex-feature-kit/issues"
   },
   "dependencies": {
     "chalk": "^5.6.2",

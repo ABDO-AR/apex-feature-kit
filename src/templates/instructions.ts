@@ -1,6 +1,6 @@
 export const INSTRUCTIONS_CONTENT = `# Apex Feature Kit - AI Protocol
 
-You are operating within the Feature-Driven Development (FDD) framework powered by @abdoar/apex-feature-kit.
+You are operating within the Feature-Driven Development (FDD) framework powered by @arfathyelsayed/apex-feature-kit.
 
 ## Core Rules
 
