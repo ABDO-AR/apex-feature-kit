@@ -2,7 +2,7 @@
 
 > by [Abdo AR](https://abdoar.com)
 
-[![npm version](https://img.shields.io/npm/v/@arfathyelsayed/apex-feature-kit.svg)](https://www.npmjs.com/package/@arfathyelsayed/apex-feature-kit) [![license](https://img.shields.io/npm/l/@arfathyelsayed/apex-feature-kit.svg)](https://github.com/ABDO-AR/apex-feature-kit/blob/main/LICENSE)
+[![npm version](https://img.shields.io/npm/v/@abdoar/apex-feature-kit.svg)](https://www.npmjs.com/package/@abdoar/apex-feature-kit) [![license](https://img.shields.io/npm/l/@abdoar/apex-feature-kit.svg)](https://github.com/ABDO-AR/apex-feature-kit/blob/main/LICENSE)
 
 Feature-Driven Development CLI for AI-agent execution — empowering startups to ship production-ready features, fast.
 
@@ -21,7 +21,7 @@ Why does this exist? Because startups need to move fast without sacrificing qual
 ## Quick Start
 
 ```bash
-npm install -g @arfathyelsayed/apex-feature-kit
+npm install -g @abdoar/apex-feature-kit
 apex-feature-kit init all
 ```
 

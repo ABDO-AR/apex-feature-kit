@@ -1,5 +1,5 @@
 {
-  "name": "@arfathyelsayed/apex-feature-kit",
+  "name": "@abdoar/apex-feature-kit",
   "version": "0.1.1",
   "description": "Feature-Driven Development CLI for AI-agent execution",
   "main": "dist/index.js",
