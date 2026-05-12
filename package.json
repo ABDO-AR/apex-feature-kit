@@ -1,6 +1,6 @@
 {
   "name": "@abdoar/apex-feature-kit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Feature-Driven Development CLI for AI-agent execution",
   "main": "dist/index.js",
   "bin": {
